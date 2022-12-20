@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alexander-Yaroshovets/goit-react-hw-03-image-finder.git/static/css/main.7acaea2f.css",
+    "main.js": "/Alexander-Yaroshovets/goit-react-hw-03-image-finder.git/static/js/main.9476dfa6.js",
+    "index.html": "/Alexander-Yaroshovets/goit-react-hw-03-image-finder.git/index.html",
+    "main.7acaea2f.css.map": "/Alexander-Yaroshovets/goit-react-hw-03-image-finder.git/static/css/main.7acaea2f.css.map",
+    "main.9476dfa6.js.map": "/Alexander-Yaroshovets/goit-react-hw-03-image-finder.git/static/js/main.9476dfa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.9476dfa6.js"
+  ]
+}
